@@ -1,7 +1,7 @@
 // Cấu hình: điền các giá trị dưới đây rồi lưu file.
 const CONFIG = {
   apk: "https://github.com/mynameisno123/so-thu-chi-web/releases/latest/download/app-release.apk",   // Liên kết tải APK, ví dụ: https://github.com/<tên-người-dùng>/<tên-repo>/releases/latest/download/app-release.apk
-  web: "",   // Địa chỉ bản web của app, ví dụ: app/ (nếu đặt cùng repo) hoặc https://ten-du-an.web.app
+  web: "app/",   // Địa chỉ bản web của app, ví dụ: app/ (nếu đặt cùng repo) hoặc https://ten-du-an.web.app
   email: "testemailhotro@gmail.com"  // Email liên hệ (để trống thì dòng liên hệ ở chân trang sẽ ẩn)
 };
 
